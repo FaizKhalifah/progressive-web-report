@@ -1,0 +1,16 @@
+{  
+    "name":"book shelf", 
+    "short_name":"bookShelf",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"aqua",
+    "theme_color":"gray",
+    "orientation": "portrait-primary",
+    "icons":[
+        {
+            "src":"book.jpg",
+            "type":"image/jpg",
+            "sizes":"72x72"
+        }
+    ]
+}
